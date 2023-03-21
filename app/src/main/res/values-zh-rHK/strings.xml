@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="bmi_height"> 高度(cm)</string>
+    <string name="bmi_weight">重量(kg)</string>
+    <string name="bmi_btn">請立即閲讀BMI報告</string>
+    <string name="bmi_result">你的BMI指數是</string>
+    <string name="bmi_warning">高度/重量不能為空。</string>
+    <string name="advice_light">你需要更多的卡路里!</string>
+    <string name="advice_average">你看起來很健康!</string>
+    <string name="advice_heavy">你需要規劃飲食!</string>
+    <string name="menu_settings">設置</string>
+
+    <string name="about_button">關於BMI</string>
+    <string name="about_msg">BMI = 身高體重指數 = 高度(m) / 重量(kg) ^ 2; BMI在20和25之間是標準的。</string>
+
+
+    <string name="menu_about">About</string>
+    <string name="menu_wiki">BMI wiki</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="textView1">Click Menu Button on the Action Bar to show the Option
+Menu. </string>
+    <string name="textView2">Press and Hold the above EditText to show the Context
+Menu. </string>
+
+
+
+</resources>
